@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ufukyesil28
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C - Python.
+- 🌱 I’m currently learning C# - SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dc/T€Z#9394.
 
